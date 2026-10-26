@@ -1,0 +1,8 @@
+{
+  "deployment_name": "cart_deployment",
+  "service_port": 3000,
+  "image": "retail-cart:1.0",
+  "replicas": 2,
+  "created_by": "terraform",
+  "timestamp": "2026-10-26T04:35:40.499013Z"
+}
